@@ -1,1 +1,5 @@
-#Placeholder for a model
+class Recipe < ActiveRecord::Base
+  
+  def create
+  end
+end
